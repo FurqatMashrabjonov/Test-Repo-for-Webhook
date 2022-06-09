@@ -6,9 +6,8 @@ const pool = new Pool({
     user: 'postgres',
     password: 'postgressdfsdf',
     database: 'pg'
-})
+})sd
 //changed
 das/dasdasdfsdfsdfcasdasdasdasdaddasdasd
-const {rows} = client.query('select * from users')
-client.release()
+dfsdclient.release()
 console.log(rows)fsdf
