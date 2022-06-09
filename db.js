@@ -8,9 +8,7 @@ const pool = new Pool({
     database: 'pg'
 })
 //changed
-//asdasdasdsadasdassadasd
-const client = pool.client()
-/dasdasdfsdfsdfcasdasdasdasdad
+das/dasdasdfsdfsdfcasdasdasdasdaddasdasd
 const {rows} = client.query('select * from users')
 client.release()
 console.log(rows)fsdf
