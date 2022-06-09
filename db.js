@@ -5,9 +5,9 @@ const pool = new Pool({
     port: 5432,
     user: 'postgres',
     password: 'postgres',
-    database: 'pg'dsasd
+    database: 'pg'
 })
-
+//changed
 //asdasdasdsadasdassadasd
 const client = pool.client()
 
