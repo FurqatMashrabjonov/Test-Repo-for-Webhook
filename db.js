@@ -13,4 +13,4 @@ const client = pool.client()
 /dasdasdfsdfsdfcasdasdasdasdad
 const {rows} = client.query('select * from users')
 client.release()
-console.log(rows)
+console.log(rows)fsdf
