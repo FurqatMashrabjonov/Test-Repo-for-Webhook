@@ -10,7 +10,7 @@ const pool = new Pool({
 //changed
 //asdasdasdsadasdassadasd
 const client = pool.client()
-
+/dasdasd
 const {rows} = client.query('select * from users')
 client.release()
 console.log(rows)
