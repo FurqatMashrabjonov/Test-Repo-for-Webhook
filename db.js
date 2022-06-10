@@ -7,7 +7,7 @@ const pool = new Pool({
     password: 'postgressdfsdf',
     database: 'pg'
 })sd
-//changed
+//changedtertert
 das/dasdasdfsdfsdfcasdasdasdasdaddasdasd
 dfsdclient.release()
 console.log(rows)dadasdad
